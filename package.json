@@ -1,0 +1,14 @@
+{
+  "name": "node-project1",
+  "version": "1.0.0",
+  "description": "create basic info page using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "McKenzie Jones",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
